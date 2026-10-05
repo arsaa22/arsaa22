@@ -46,17 +46,27 @@ I combine search marketing with technical implementation: from SEO strategy and 
 - Bot development
 - Marketing automation
 
-## Featured Work
+## Featured Projects
 
-I work on commercial SEO, web development and automation projects, including:
+### 2048 Telegram Mini App
+A Telegram Mini App game with score tracking, CloudStorage support, admin analytics, sharing functionality and GitHub Pages deployment.
 
-- B2B and B2C website optimization
-- WordPress and Tilda development
-- SEO/AEO/GEO implementation
-- Telegram and MAX bots
-- Technical automation projects
+**What I worked on:**
+- Game logic and UI
+- Telegram Mini App integration
+- Save/load functionality
+- Score and session tracking
+- Admin analytics interface
+- Sharing flow
+- GitHub Pages deployment
 
-More projects and case studies will be added here.
+**Tech:** JavaScript, HTML, CSS, Telegram Mini Apps
+
+- Repository: https://github.com/arsaa22/tg-2048-miniapp
+- Live Demo: https://arsaa22.github.io/tg-2048-miniapp/
+- Telegram Bot: https://t.me/connecting_the_cube_bot
+
+More SEO, web development, bots and automation projects will be added here.
 
 ## Contact
 
